@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.15;
     --memberlistransparency: 0;
     --accentcolor: 238,201,93;
-    --background: url("https://tenor.com/bErTF.gif");
+    --background: url("<div class="tenor-gif-embed" data-postid="21994345" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/jett-valorant-gamer-pc-game-jett-valorant-gif-21994345">Jett Valorant GIF</a>from <a href="https://tenor.com/search/jett-gifs">Jett GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
